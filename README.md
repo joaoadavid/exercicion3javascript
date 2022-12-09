@@ -1,1 +1,1 @@
-# exercicion3javascript
+Alunos: João Antonio David e Gabriel Costa
